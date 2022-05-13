@@ -35,3 +35,15 @@ Prosedürel programlama, ortak görevleri tamamlamak için genel amaçlı progra
 Bu paradigmada yazılan algoritmanın uygulanması çok basittir, ancak oldukça yavaştır vekarmaşık bir sorunu çözemez.
 
 Prosedürel programlama paradigmasını uygulayan programlama dilleri C, Java, C++, ColdFusion, Pascal'dır.
+
+## Nesne Yönelimli Programlama
+
+Nesne yönelimli programlama veya OOP, programın bir sınıf koleksiyonu olarak yazıldığı paradigmadır. Her sınıfın nesneler olarak adlandırılan örnekleri vardır.
+
+Sınıf, genel olarak bir varlığı tanımlamanın,olağan durumu ve bu duruma bağlı davranışı tanımlamanın yanı sıra bu varlıkla etkileşim için olağan kuralları tanımlamanın bir yoludur. Biçimsel olarak bir sınıf, alanlar, nitelikler, sınıf üyeleri ve işlevler gibi bir sizi veri, yani onlarla çalışma yöntemleri olarak görülür.
+
+Örneğin, bir *kedimiz* var ve onu bir sınıf olarak tanımlamak istiyoruz. Böylece *kedi, ilgiliz Kedi* sınıfının bir nesnesi olacaktır. Bir kedinin bazı özellikleri vardır. Kuyruk, patiler, kulaklar, bıyıklar. Bir kedinin davranışı genellikle yaptığı şeylerdir. Koşabilir, zıplayabilir, miyavlayabilir, yiyebilir ve duvar kağıdını yırtabilir. Bunların hepsi *kedi* yöntemleri olacak.
+
+OOP, tipik nesneleri modellemeniz ve onlarla çalışmanız gereken hemen hemen her türlü yaygın yaşam problemini halledebilir.
+
+OOP uygulayan programlama dilleri Ruby, Java, C++, Python, Simula(ilk OOP dili), Smalltalk, Visual Basic .NET, Objective-C'dir.
