@@ -64,3 +64,16 @@ Bildirime dayalı programlama,
 - Veritabanı
 
 paradigma türlerine ayrılır.
+
+## Mantıksal Programlama Paradigması
+
+Mantıksal programlama, ağırlıklı olarak biçimsel mantığa dayanan bir programlama paradigmasıdır. Mantıksal bir programlama dilinde yazılmış herhangi bir program, belirli bir sorun alanıyla ilgili gerçekleri ve kuralları ifade eden mantıksal biçimdeki bir dizi cümledir.
+
+Bu nedenle, mantıksal programlamanın temel ifadeleri aşağıdaki gibidir:
+- **Gerçekler**, "Sokrates bir erkektir." gibi, sorun alanıyla ilgili temel iddialardır.
+- **Kurallar**, alandaki gerçeklerle ilgili çıkarımlardır. ("Bütün insanlar ölümlüdür.")
+- **Sorgular**, o alanla ilgili sorulardır. ("Sokrates ölümlü müdür?")
+
+Genel olarak, buradaki görev, gerçeklere ve kurallara dayanarak sorgunun cevabını bulmaktır.
+
+Mantıksal programlama dillerinin ana aileleri arasında Prolog, Answer Set Programming (ASP) ve Datalog bulunur.
