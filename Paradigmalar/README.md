@@ -91,3 +91,12 @@ Fonksiyonel programlama , hesaplama sürecinin fonksiyonların değerlerinin hes
 Bu programlama metodolojisi verilerle çalışmaya dayanmaktadır. Veriler veritabanında saklanır ve bu veritabanına özel bir dilde, örneğin SQL'de sorgular yapılır. Bu dillerle filtreleme, dönüştürme, istatistik hesaplama vb. için verilere erişebilirsiniz. Program ifadeleri, sabit kodlanmış bir dizi adımdan ziyade veri tanımlıdır.
 
 Veritabanı programı, iş bilgi sisteminin kalbidir ve dosya oluşturma, veri girişi, güncelleme, sorgulama ve raporlama işlevlerine izin verir.
+
+Sonuç olarak,
+
+- Program oluşturmaya yönelik farklı yaklaşımlara **paradigma** denir.
+- İki ana programlama paradigması vardır: zorunlu ve bildirimsel.
+- **Zorunlu paradigma**, verileri sırayla değiştiren adım adım talimatları kullanarak bir sonuca ulaşmaya odaklanır.
+- **Zorunlu paradigma**, Prosedürel programlama paradigması, Nesne yönelimli programlama ve Paralel işleme yaklaşımını içerir.
+- **Bildirimsel paradigma**, göreve odaklanır ve beklenen bir sonucu elde etmeye çalışır.
+- **Bildirime dayalı paradigma**, Mantık, İşlevsel ve Veritabanı paradigmalarını içerir.
