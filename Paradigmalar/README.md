@@ -77,3 +77,11 @@ Bu nedenle, mantıksal programlamanın temel ifadeleri aşağıdaki gibidir:
 Genel olarak, buradaki görev, gerçeklere ve kurallara dayanarak sorgunun cevabını bulmaktır.
 
 Mantıksal programlama dillerinin ana aileleri arasında Prolog, Answer Set Programming (ASP) ve Datalog bulunur.
+
+## Fonksiyonel Programlama Paradigması
+
+Fonksiyonel programlama , hesaplama sürecinin fonksiyonların değerlerinin hesaplanması olarak yorumlandığı bir programlama paradigmasıdır. Bu durumda fonksiyon matematiksel olana benzer. Yani, girdinin değişmeyen bir dizi olduğu ve çıktının yeni veriler içeren yeni bir dizi olduğu bir fonksiyon. Bu, matematiksel bir işlevi, bir işlevin orijinal verileri değiştiren bir eylemler dizisi olduğu prosedürel programlamadaki bir işlevden farklı kılar.
+
+İşte basit bir örnek: Girdi olarak bir sayı listesi alan ve bu sayıların kareleriyle yeni bir liste döndüren bir işleviniz olabilir. Bu, orijinal numara listesini değiştirmez.
+
+İşlevsel programlama paradigmasını uygulayan programlama dilleri JavaScript, Haskell, Scala, Erlang, Lisp, ML, Clojure, OCaml, Common Lisp ve F#'dir.
