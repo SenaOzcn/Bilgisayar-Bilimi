@@ -47,3 +47,7 @@ Sınıf, genel olarak bir varlığı tanımlamanın,olağan durumu ve bu duruma 
 OOP, tipik nesneleri modellemeniz ve onlarla çalışmanız gereken hemen hemen her türlü yaygın yaşam problemini halledebilir.
 
 OOP uygulayan programlama dilleri Ruby, Java, C++, Python, Simula(ilk OOP dili), Smalltalk, Visual Basic .NET, Objective-C'dir.
+
+## Paralel İşleme Yaklaşımı
+
+Paralel işleme, talimat yürütme süresini azaltmaya yardımcı olur. Bunu, talimatları birden çok işlemci arasında paylaşarak veya paralel hale getirerek yapar. Yaklaşımın anlamı tek bir cümleyle özetlenebilir: "böl ve yönet". Örnekler NESL(en eskilerden biri) ve C/C++.
