@@ -50,4 +50,4 @@ OOP uygulayan programlama dilleri Ruby, Java, C++, Python, Simula(ilk OOP dili),
 
 ## Paralel İşleme Yaklaşımı
 
-Paralel işleme, talimat yürütme süresini azaltmaya yardımcı olur. Bunu, talimatları birden çok işlemci arasında paylaşarak veya paralel hale getirerek yapar. Yaklaşımın anlamı tek bir cümleyle özetlenebilir: "böl ve yönet". Örnekler NESL(en eskilerden biri) ve C/C++.
+Paralel işleme, talimat yürütme süresini azaltmaya yardımcı olur. Bunu, talimatları birden çok işlemci arasında paylaşarak veya paralel hale getirerek yapar. Yaklaşımın anlamı tek bir cümleyle özetlenebilir: "böl ve yönet". Örnekler, NESL(en eskilerden biri) ve C/C++'tır.
