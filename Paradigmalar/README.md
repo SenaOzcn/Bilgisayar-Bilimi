@@ -51,3 +51,16 @@ OOP uygulayan programlama dilleri Ruby, Java, C++, Python, Simula(ilk OOP dili),
 ## Paralel İşleme Yaklaşımı
 
 Paralel işleme, talimat yürütme süresini azaltmaya yardımcı olur. Bunu, talimatları birden çok işlemci arasında paylaşarak veya paralel hale getirerek yapar. Yaklaşımın anlamı tek bir cümleyle özetlenebilir: "böl ve yönet". Örnekler, NESL(en eskilerden biri) ve C/C++'tır.
+
+## Bildirim Paradigması
+
+Bildirimsel programlama, sorunun ve çözümün beklenen sonucunu belirtmenin önemli olduğu bir programlama paradigmasıdır. Yani, "bu nasıl yapılır?" sorusuna cevap vermenin gerekli olduğu zorunlu paradigmanın aksine, "ne yapılması gerekiyor?" ve "çalışmanın sonucu ne olacak?" sorularını sormamız gerekiyor. Bu nedenle, adım adım talimat vermek yerine, sisteme neye ihtiyacımız olduğunu söyleyin ve bir çözüm bulmaya çalışmasına izin verin.
+
+![gorsel](https://ucarecdn.com/708d0047-47c5-45c6-834b-18db7b1d1865/)
+
+Bildirime dayalı programlama,
+- Mantık
+- İşlevsel
+- Veritabanı
+
+paradigma türlerine ayrılır.
